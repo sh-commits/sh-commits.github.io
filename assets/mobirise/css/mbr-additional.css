@@ -2836,6 +2836,9 @@ section.lazy-placeholder:after {
 .cid-rR6S3oK8KD .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rSvjWhhYAv {
+  background-image: url("../../../assets/images/background4.jpg");
+}
 .cid-rSvgbulS5c {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2926,6 +2929,96 @@ section.lazy-placeholder:after {
 .cid-rSvgbulS5c .reverseTimeline {
   display: flex;
   flex-direction: column-reverse;
+}
+.cid-rSvj5MHWAa {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rSvj5MHWAa .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rSvj5MHWAa .section-text {
+  padding: 2rem 0;
+}
+.cid-rSvj5MHWAa .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rSvj5MHWAa .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rSviPe0SL1 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rSviPe0SL1 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSviPe0SL1 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rSviPe0SL1 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rSviPe0SL1 .team-item .item-image img {
+  width: 100%;
+}
+.cid-rSviPe0SL1 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rSviPe0SL1 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rSviPe0SL1 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rSviPe0SL1 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rSviPe0SL1 .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rSvjuiZAuS {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rSvjuiZAuS .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-rSvjuiZAuS .mbr-author-name {
+  font-weight: bold;
+}
+.cid-rSvjuiZAuS .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rSvjuiZAuS .mbr-figure,
+  .cid-rSvjuiZAuS img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rSvjuiZAuS .media-content {
+    padding-top: 1.5rem !important;
+  }
 }
 .cid-rR73j1b1vZ {
   padding-top: 30px;
